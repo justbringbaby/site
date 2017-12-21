@@ -3,4 +3,4 @@
 import sys
 
 if __name__ == "__main__":
-   print "what could go wrong?"
+   print "what could possibly go wrong?"
